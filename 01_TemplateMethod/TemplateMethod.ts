@@ -44,3 +44,14 @@ function main(): void {
 }
 
 main();
+
+/*
+  実行結果
+
+  setup: ItemServiceTest
+  execute: ItemServiceTest
+  teardown
+  setup: UserServiceTest
+  execute: UserServiceTest
+  teardown
+*/
