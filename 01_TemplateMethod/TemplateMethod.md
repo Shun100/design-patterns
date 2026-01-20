@@ -15,6 +15,7 @@
 ``` mermaid
 classDiagram
   class AbstractClass {
+    <<abstract>>
     templateMethod()
     step1()
     step2()
