@@ -12,12 +12,12 @@
 
 ``` mermaid
 classDiagram
-  direction RL
+  direction LR
 ```
 
 ### 適用例
 
 ``` mermaid
 classDiagram
-  direction RL
+  direction LR
 ```
